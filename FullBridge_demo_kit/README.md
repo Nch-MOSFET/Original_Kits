@@ -48,3 +48,6 @@ J1のみ3Dモデルがなかったため欠けています
 底面から:
 ![image](https://user-images.githubusercontent.com/91242561/180595063-4cbe9989-8b1d-4902-b820-b53e281cc6f5.png)
 
+## 回路図
+
+![image](https://user-images.githubusercontent.com/91242561/180596170-118ee0aa-1ead-401e-93a7-713290e4feeb.png)
