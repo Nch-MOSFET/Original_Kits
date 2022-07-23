@@ -19,10 +19,8 @@
 | D1 | 逆接保護ダイオード | 1000V1A | [I-13561](https://akizukidenshi.com/catalog/g/gI-13561/) |
 | D2 | 発光ダイオード | 緑色 | [I-06405](https://akizukidenshi.com/catalog/g/gI-06405/) |
 | D3 | 発光ダイオード | 赤色 | [I-04111](https://akizukidenshi.com/catalog/g/gI-04111/) |
-| C1 | 電源入力コンデンサ | 220μF35V | [P-11758](https://akizukidenshi.com/catalog/g/gP-11758/) |
-| C2 | 電源入力コンデンサ | 1μF50V | [P-08150](https://akizukidenshi.com/catalog/g/gP-08150/) |
-| C3 | 電源出力コンデンサ | 1μF50V | C2と同一 |
-| C4 | 電源出力コンデンサ | 220μF35V | C1と同一 |
+| C1 | 電源用平滑コンデンサ | 220μF35V | [P-11758](https://akizukidenshi.com/catalog/g/gP-11758/) |
+| C2 | 電源用平滑コンデンサ | 1μF50V | [P-08150](https://akizukidenshi.com/catalog/g/gP-08150/) |
 | U1 | リニアレギュレータ | 5V1.5A | [I-08678](https://akizukidenshi.com/catalog/g/gI-08678/) |
 | R1 | 短絡保護抵抗 | 3W100Ω | [R-11019](https://akizukidenshi.com/catalog/g/gR-11019/) |
 | R2, R3 | LED保護抵抗 | 1/4W470Ω | [R-25471](https://akizukidenshi.com/catalog/g/gR-25471/) |
@@ -37,16 +35,16 @@
 J1のみ3Dモデルがなかったため欠けています
 
 上面から:
-![image](https://user-images.githubusercontent.com/91242561/180594928-08f13818-89d4-405c-ae28-f26ba7474fc1.png)
+![image](https://user-images.githubusercontent.com/91242561/180597006-ff98ec04-6424-4014-b4e5-99113cc7cf52.png)
 
 横面から:
-![image](https://user-images.githubusercontent.com/91242561/180594956-5ac7223b-0a22-48a2-b2dc-ca7890f41c49.png)
-![image](https://user-images.githubusercontent.com/91242561/180594965-d392adf4-7744-40f8-803d-43c52a862aa8.png)
-![image](https://user-images.githubusercontent.com/91242561/180594973-1f4f23ba-825c-4abe-9530-6a02924398c0.png)
-![image](https://user-images.githubusercontent.com/91242561/180594974-587636fd-844b-4c9c-8396-ba7890e29064.png)
+![image](https://user-images.githubusercontent.com/91242561/180597016-8f2e962c-77b5-4860-b11e-c18d978fd6b8.png)
+![image](https://user-images.githubusercontent.com/91242561/180597026-f4b986ba-298d-4743-9497-459d78469a62.png)
+![image](https://user-images.githubusercontent.com/91242561/180597033-8028d132-13df-4813-8aea-a5898a8d648c.png)
+![image](https://user-images.githubusercontent.com/91242561/180597038-be675245-94c1-4b36-a193-627bcda35e69.png)
 
 底面から:
-![image](https://user-images.githubusercontent.com/91242561/180595063-4cbe9989-8b1d-4902-b820-b53e281cc6f5.png)
+![image](https://user-images.githubusercontent.com/91242561/180597054-d6587b5c-1e1b-4188-ab45-b9d90639a7c9.png)
 
 ## 回路図
 
