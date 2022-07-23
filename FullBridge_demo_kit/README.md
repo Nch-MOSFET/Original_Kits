@@ -30,3 +30,21 @@
 |  | スペーサ | M3 | [P-01864](https://akizukidenshi.com/catalog/g/gP-01864/) |
 
 ※部品によっては複数個セットで販売されています
+
+## 基板イメージ
+
+部品取り付けの際の参考にどうぞ  
+J1のみ3Dモデルがなかったため欠けています
+
+上面から:
+![image](https://user-images.githubusercontent.com/91242561/180594928-08f13818-89d4-405c-ae28-f26ba7474fc1.png)
+
+横面から:
+![image](https://user-images.githubusercontent.com/91242561/180594956-5ac7223b-0a22-48a2-b2dc-ca7890f41c49.png)
+![image](https://user-images.githubusercontent.com/91242561/180594965-d392adf4-7744-40f8-803d-43c52a862aa8.png)
+![image](https://user-images.githubusercontent.com/91242561/180594973-1f4f23ba-825c-4abe-9530-6a02924398c0.png)
+![image](https://user-images.githubusercontent.com/91242561/180594974-587636fd-844b-4c9c-8396-ba7890e29064.png)
+
+底面から:
+![image](https://user-images.githubusercontent.com/91242561/180595063-4cbe9989-8b1d-4902-b820-b53e281cc6f5.png)
+
