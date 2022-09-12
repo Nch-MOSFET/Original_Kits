@@ -9,3 +9,11 @@
 
 - [FullBridge_demo_kit](./FullBridge_demo_kit)
   - フルブリッジインバータを模擬したキットです。押し方によってLEDの光り方が変わります。また、信号取り出し用のピンソケットも付いています
+
+# In preparation
+
+- Arduino_Lchika_Board
+  - ArduinoのGPIOすべてにLEDを接続したボードです。マイコンプログラミングの基礎「Lチカ」にご使用いただける他GPIOの動作を可視化することもできます
+  - Nano, UNO, Seeed Xiao用を公開予定です
+- Multivibrator
+  - 非安定マルチバイブレータの回路です。単三乾電池3本で動作します
