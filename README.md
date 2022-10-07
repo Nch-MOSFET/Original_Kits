@@ -17,3 +17,5 @@
   - Nano, UNO, Seeed Xiao用を公開予定です
 - Multivibrator
   - 非安定マルチバイブレータの回路です。単三乾電池3本で動作します
+- PicoTrafficLight
+  - RP2040搭載マイコン Raspberry Pi Pico を使用した信号機のデモキットです。車両用と歩行者用を2方向分実装可能で、全てのLEDをGPIO経由で直接操作可能です
